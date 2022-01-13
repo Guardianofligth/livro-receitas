@@ -10,10 +10,14 @@ Olá! Bem vindo ao meu livro de receitas:shallow_pan_of_food:
 
 - Costela com agrião
 
-- Empadas de queijo
+- Empada de queijo
 
 - Carne assada
 
 - Farofa
 
+- Pastel de queijo
+
+  
+  
   
